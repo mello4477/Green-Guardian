@@ -1,9 +1,9 @@
 const items = [
-  { name: "Garrafa de plástico", type: "plastico", img: "images/garrafa_plastico.png" },
-  { name: "Papelão", type: "reciclavel", img: "images/papelao.png" },
-  { name: "Restos de comida", type: "organico", img: "images/restos_comida.png" },
-  { name: "Garrafa de vidro", type: "vidro", img: "images/garrafa_vidro.png" },
-  { name: "Lata de alumínio", type: "metal", img: "images/lata_aluminio.png" },
+  { name: "Garrafa de plástico", type: "plastico", img: "https://w7.pngwing.com/pngs/908/930/png-transparent-water-bottles-plastic-bottle-glass-bottle-mineral-water-bottle-glass-recycling-plastic-bottle.png" },
+  { name: "Papelão", type: "reciclavel", img: "https://e7.pngegg.com/pngimages/232/1022/png-clipart-cardboard-material-resources-cardboard-material.png" },
+  { name: "Restos de comida", type: "organico", img: "https://w7.pngwing.com/pngs/311/95/png-transparent-leftovers-buffet-food-ragout-char-siu-yen-thumbnail.png" },
+  { name: "Garrafa de vidro", type: "vidro", img: "https://w7.pngwing.com/pngs/427/174/png-transparent-clear-glass-bottle-with-cork-cap-bottle-drawing-cartoon-drift-bottle-glass-plastic-bottle-wine-bottle.png" },
+  { name: "Lata de alumínio", type: "metal", img: "https://e7.pngegg.com/pngimages/318/812/png-clipart-sublimation-tin-can-aluminium-aluminum-can-white-platos-white-color-thumbnail.png" },
   // Adicione mais itens conforme necessário
 ];
 
